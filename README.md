@@ -1,2 +1,5 @@
 # HELLO-WORLD
-In the beginning there was the world.
+
+Hello Coders. Teach me everything you can. I am fast learner.
+
+
